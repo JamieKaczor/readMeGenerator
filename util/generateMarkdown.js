@@ -42,7 +42,7 @@ function generateMarkdown(data) {
   ${data.contributors}
   
   ### Tests
-  
+  ${data.test}
   
   ### License
   ${data.license}

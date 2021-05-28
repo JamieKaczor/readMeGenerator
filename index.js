@@ -63,7 +63,7 @@ function writeToFile(fileName, data) {
             return console.log(err)
         }
         else {
-            console.log("success")
+            console.log("Successful README.md")
         }
     })
 }

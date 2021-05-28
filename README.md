@@ -11,19 +11,19 @@
   - [Questions](#questions)
   
   ### Description
-  A simple readme.md generator for future homework assignments
+  It's a readme.md generator
   
   ### Installation
   npm i
   
   ### Usage
-  used for projects
+  used to create a readme.md for future projects
   
   ### Contributing
   everyone
   
   ### Tests
-  
+  Yes/Passed
   
   ### License
   MIT
