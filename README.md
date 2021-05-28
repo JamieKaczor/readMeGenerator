@@ -1,5 +1,5 @@
-# readMeGenerator
-
+# Professional README Generator
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   ## Table of Contents
   
   - [Description](#description)
@@ -11,16 +11,16 @@
   - [Questions](#questions)
   
   ### Description
-  It's a readme.md generator
+  You can quickly and easily create a README file by using a command-line application to generate one.
   
   ### Installation
   npm i
   
   ### Usage
-  used to create a readme.md for future projects
+  Creates a boilerplate readme file for future projects.
   
   ### Contributing
-  everyone
+  Myself, Class Instructor, TA
   
   ### Tests
   Yes/Passed
@@ -29,4 +29,7 @@
   MIT
   
   ### Questions
-  If you have any questions, please refer to my Github page, JamieKaczor, or contact me through my email, DignanJK@aol.com
+  If you have any questions, please refer to my Github page, [JamieKaczor](https://github.com/JamieKaczor), or contact me through my email, DignanJK@aol.com
+  
+  ### Application in use
+  
